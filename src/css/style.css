@@ -1,0 +1,151 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,
+body {
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+header {
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+    
+}
+
+.cabecalho video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.cabecalho ul {
+    display: flex;
+    align-items: right;
+    justify-content: right;
+    gap: 30px;
+    list-style: none;
+    font-size: 30px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%; 
+    z-index: 2;
+    margin-top: 60px;
+    
+  
+}
+
+.cabecalho a {
+    text-decoration: none;
+    color: rgb(158, 46, 46);
+    margin-right: 50px;
+    display: inline-block;
+    transition: 0.3s;
+    
+}
+
+.cabecalho a:hover {
+    color: rgb(37, 35, 35);
+    transform: translateY(-5px);
+}
+
+.titulo {
+    font-size: 30px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%; 
+    z-index: 2;
+    color: white;
+    margin-top: 450px;
+    margin-left: 50px;
+    margin-right: 200px;
+    text-align: justify;
+    
+    
+}
+
+.boasvindas h1 {
+    margin-top: 40px;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    font-size: 80px;
+    
+}
+
+.boasvindas p {
+    max-width: 1000px;
+    margin: 80px auto;
+    text-align: justify;
+    margin-top: 30px;
+    font-size: 35px;
+}
+
+.sobreVinharia {
+    max-width: 1000px;
+    margin: 80px auto;
+    text-align: justify;
+    margin-top: 120px;
+    font-size: 40px;
+    
+}
+
+
+.descubraVinhos {
+    max-width: 1000px;
+    margin: 80px auto;
+    text-align: justify;
+    margin-top: 200px;
+    font-size: 40px;
+    margin-bottom: 40px;
+    
+}
+
+.vinhocerto {
+    max-width: 1000px;
+    margin: 80px auto;
+    text-align: justify;
+    margin-top: 200px;
+    font-size: 40px;
+}
+
+.contato {
+    max-width: 1000px;
+    margin: 80px auto;
+    text-align: justify;
+    margin-top: 200px;
+    font-size: 40px;
+}
+
+footer {
+   display: flex;
+   justify-content: center;
+   margin-bottom: 60px;
+   margin-top: 200px;
+}
+
+#fotovinharia {
+    width: 1000px;
+    height: 600px;
+}
+
+#fotodentroloja {
+    width: 1000px;
+    height: 600px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+#fotodentroloja2 {
+    width: 1000px;
+    height: 600px;
+}
