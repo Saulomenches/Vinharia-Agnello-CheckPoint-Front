@@ -232,6 +232,7 @@ header {
     margin-top: 200px;
     margin-bottom: 40px;
     font-size: 40px;
+    
 
     background-image: url("../assets/imgs/fundograndeagnello.png");
     background-size: 100% 100%;
@@ -256,11 +257,22 @@ header {
     top: 400px;
     text-align: center;
     
+    
 }
 
 .descubraVinhos p {
     margin-top: 300px;
+    text-decoration: none;
+    
+    
 }
+
+.descubraVinhos a {
+    text-decoration: none;
+    
+}
+
+
 
 .vinhocerto {
     max-width: 1000px;
