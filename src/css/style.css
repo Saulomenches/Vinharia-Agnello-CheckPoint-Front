@@ -81,14 +81,14 @@ header {
     height: auto !important;
 }
 
-.boasvindas h1 {
+/* .boasvindas h1 {
     margin-top: 40px;
-    font-size: 30px;
+    font-size: 50px;
     display: flex;
     justify-content: center;
     font-size: 80px;
     
-}
+} */
 
 .boasvindas p {
     max-width: 1000px;
@@ -104,6 +104,15 @@ header {
     text-align: justify;
     margin-top: 120px;
     font-size: 40px;
+    color: rgb(69, 13, 10);
+}
+
+.sobreVinharia h1 {
+    max-width: 1000px;
+    margin: 80px auto;
+    text-align: justify;
+    margin-top: 120px;
+    font-size: 130px;
     color: rgb(69, 13, 10);
 }
 
@@ -283,8 +292,14 @@ header {
     color: rgb(69, 13, 10);
 }
 
+.vinhocerto h1 {
+font-size: 120px;
+    color: rgb(69, 13, 10);
+}
+
 .vinhocerto p {
     margin-top: 30px;
+
    
 }
 
@@ -300,6 +315,12 @@ header {
 .contato p {
     margin-top: 30px;
  
+}
+
+.contato h1 {
+    margin-top: 30px;
+    font-size: 120px;
+    color: rgb(69, 13, 10);
 }
 
 footer {
