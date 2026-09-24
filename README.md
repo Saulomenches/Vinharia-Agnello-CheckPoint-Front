@@ -12,18 +12,55 @@ Um dos pontos que ajudou a dar mais personalidade ao projeto foi a utilização 
 
 O resultado é uma experiência digital criada do zero, que busca unir estrutura, conteúdo e identidade visual para dar vida a uma marca que não existe no mundo real. O projeto também foi uma oportunidade de colocar em prática os conhecimentos desenvolvidos durante a disciplina, experimentar novas possibilidades e transformar uma proposta fictícia em um site funcional, visualmente consistente e com uma identidade própria. Diante do resultado alcançado e de todo o processo de desenvolvimento, este projeto também fará parte do meu portfólio como um dos trabalhos que representam minha evolução na área de desenvolvimento web.
 
-<img width="1901" height="946" alt="image" src="https://github.com/user-attachments/assets/eeddc2b2-c60a-4d2b-8b2e-3d022e7de7a2" />
+<img width="1903" height="942" alt="image" src="https://github.com/user-attachments/assets/f5d09e4e-2877-430c-97ad-0b554a092607" />
+
 
 ## Estrutura do projeto
 
-O projeto é composto por cinco páginas principais:
+O projeto está organizado da seguinte maneira:
 
-- `index.html` — Página inicial do site, apresentando a Vinharia Agnello, sua proposta e destaques das experiências oferecidas.
-- `pages/experiencia.html` — Página dedicada às experiências da Vinharia Agnello, apresentando serviços como degustação, harmonização,
-- orientação na escolha de vinhos, sugestões de presentes e montagem de adega personalizada.
-- `pages/` — Pasta destinada às demais páginas do projeto.
-- `src/css/` — Contém os arquivos CSS responsáveis pela estilização e identidade visual do site.
+```text
+vinharia-agnello/
+│
+├── src/
+│   ├── assets/
+│   │   └── imgs/
+│   │       └── Imagens utilizadas no site
+│   │
+│   ├── css/
+│   │   ├── contato.css
+│   │   ├── experiencias.css
+│   │   ├── historia.css
+│   │   ├── listavinhos.css
+│   │   ├── style.css
+│   │   └── vinhos.css
+│   │
+│   └── Js/
+│
+├── pages/
+│   ├── contato.html
+│   ├── experiencia.html
+│   ├── historia.html
+│   ├── listavinhos.html
+│   └── vinhos.html
+│
+├── index.html
+└── README.md
+
+A composição foi formada pelas seguintes páginas:
+
+- `index.html` — Página inicial do site, apresentando a Vinharia Agnello, sua proposta e os principais destaques.
+- `pages/experiencia.html` — Página dedicada às experiências da Vinharia Agnello, apresentando serviços como degustação, harmonização, orientação na escolha de vinhos, sugestões de presentes e montagem de adega personalizada.
+- `pages/historia.html` — Página que apresenta a história e a identidade da Vinharia Agnello.
+- `pages/vinhos.html` — Página dedicada à apresentação dos vinhos e suas características através de uma tabela.
+- `pages/listavinhos.html` — Página que apresenta a lista de vinhos disponíveis utilizando uma lista não ordenada.
+- `pages/contato.html` — Página destinada às informações de contato da Vinharia Agnello.
+
+### Organização dos arquivos
+
 - `src/assets/imgs/` — Contém as imagens utilizadas nas páginas do projeto.
+- `src/css/` — Contém os arquivos CSS responsáveis pela estilização e identidade visual do site.
+- `src/Js/` — Pasta destinada aos arquivos JavaScript do projeto (que por enquanto não foi utilizada).
 
 ## Integrantes
 
