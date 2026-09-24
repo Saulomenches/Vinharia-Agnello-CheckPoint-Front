@@ -1,5 +1,7 @@
 # Vinharia Agnello
 
+<img width="1902" height="946" alt="image" src="https://github.com/user-attachments/assets/86efff00-775a-4bdf-9cb8-7869e32e6549" />
+
 ## Sobre o projeto
 
 A Vinharia Agnello é uma vinheria fictícia criada como projeto acadêmico para a disciplina de Front-end Design da FIAP.
