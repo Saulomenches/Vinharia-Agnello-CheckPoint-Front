@@ -49,18 +49,18 @@ vinharia-agnello/
 
 A composição foi formada pelas seguintes páginas:
 
-- `index.html` — Página inicial do site, apresentando a Vinharia Agnello, sua proposta e os principais destaques.
-- `pages/experiencia.html` — Página dedicada às experiências da Vinharia Agnello, apresentando serviços como degustação, harmonização, orientação na escolha de vinhos, sugestões de presentes e montagem de adega personalizada.
-- `pages/historia.html` — Página que apresenta a história e a identidade da Vinharia Agnello.
-- `pages/vinhos.html` — Página dedicada à apresentação dos vinhos e suas características através de uma tabela.
-- `pages/listavinhos.html` — Página que apresenta a lista de vinhos disponíveis utilizando uma lista não ordenada.
-- `pages/contato.html` — Página destinada às informações de contato da Vinharia Agnello.
+- index.html — Página inicial do site, apresentando a Vinharia Agnello, sua proposta e os principais destaques.
+- pages/experiencia.html — Página dedicada às experiências da Vinharia Agnello, apresentando serviços como degustação, harmonização e atendimento personalizado.
+- pages/historia.html — Página que apresenta a história e a identidade da Vinharia Agnello.
+- pages/vinhos.html — Página dedicada à apresentação dos vinhos e suas características através de uma tabela.
+- pages/listavinhos.html — Página que apresenta a lista de vinhos disponíveis utilizando uma lista não ordenada.
+- pages/contato.html — Página destinada às informações de contato da Vinharia Agnello.
 
 ### Organização dos arquivos
 
-- `src/assets/imgs/` — Contém as imagens utilizadas nas páginas do projeto.
-- `src/css/` — Contém os arquivos CSS responsáveis pela estilização e identidade visual do site.
-- `src/Js/` — Pasta destinada aos arquivos JavaScript do projeto (que por enquanto não foi utilizada).
+- src/assets/imgs/ — Contém as imagens utilizadas nas páginas do projeto.
+- src/css/ — Contém os arquivos CSS responsáveis pela estilização e identidade visual do site.
+- src/js/ — Pasta destinada aos arquivos JavaScript do projeto (que por enquanto não foi utilizada).
 
 ## Integrantes
 
