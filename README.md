@@ -8,11 +8,11 @@ Este projeto foi desenvolvido como um trabalho acadêmico da disciplina de Front
 
 O site foi desenvolvido individualmente, desde a estruturação das páginas até a organização dos conteúdos e elementos visuais. Ao longo do projeto, trabalhei com a criação de diferentes páginas, navegação entre conteúdos, composição dos layouts, utilização de imagens, tipografia, cores e outros recursos de HTML e CSS aprendidos durante a disciplina.
 
-<img width="1901" height="946" alt="image" src="https://github.com/user-attachments/assets/eeddc2b2-c60a-4d2b-8b2e-3d022e7de7a2" />
-
 Um dos pontos que ajudou a dar mais personalidade ao projeto foi a utilização de Inteligência Artificial na criação das imagens. A IA foi utilizada para desenvolver ambientes, cenas da vinheria, imagens relacionadas aos vinhos e elementos da identidade visual, tornando os materiais mais personalizados e ajudando a dar uma aparência mais real àquilo que inicialmente existia apenas como uma proposta fictícia.
 
 O resultado é uma experiência digital criada do zero, que busca unir estrutura, conteúdo e identidade visual para dar vida a uma marca que não existe no mundo real. O projeto também foi uma oportunidade de colocar em prática os conhecimentos desenvolvidos durante a disciplina, experimentar novas possibilidades e transformar uma proposta fictícia em um site funcional, visualmente consistente e com uma identidade própria. Diante do resultado alcançado e de todo o processo de desenvolvimento, este projeto também fará parte do meu portfólio como um dos trabalhos que representam minha evolução na área de desenvolvimento web.
+
+<img width="1901" height="946" alt="image" src="https://github.com/user-attachments/assets/eeddc2b2-c60a-4d2b-8b2e-3d022e7de7a2" />
 
 ## Estrutura do projeto
 
