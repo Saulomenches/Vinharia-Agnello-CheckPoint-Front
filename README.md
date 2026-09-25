@@ -75,5 +75,4 @@ A composição foi formada pelas seguintes páginas:
 ## Site publicado
 
 Acesse o projeto publicado no GitHub Pages:
-
-https://saulomenches.github.io/Vinharia-Agnello-CheckPoint-Fro
+https://saulomenches.github.io/Vinharia-Agnello-CheckPoint-Front/
