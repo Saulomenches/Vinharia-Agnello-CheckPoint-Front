@@ -203,3 +203,95 @@ bottom: -11700px
    text-decoration: none;
    color: white;
 }
+
+
+
+.mensagemPreco {
+    display: none;
+    position: absolute;
+    color: white;
+    font-size: 20px;
+    background-color: rgb(69, 13, 10);
+    border-radius: 10px;
+    width: 160px;
+    height: 30px;
+    padding: 5px;
+    text-align: center;
+    cursor: pointer;
+}
+
+/* Cabernet */
+.listaVinhos li:nth-child(1) .mensagemPreco {
+    top: 0px;
+    left: 300px;
+}
+
+/* Merlot */
+.listaVinhos li:nth-child(2) .mensagemPreco {
+    top: 1200px;
+    left: 300px;
+}
+
+/* Syrah */
+.listaVinhos li:nth-child(3) .mensagemPreco {
+    top: 2500px;
+    left: 300px;
+}
+
+/* Malbec */
+.listaVinhos li:nth-child(4) .mensagemPreco {
+    top: 4000px;
+    left: 300px;
+}
+
+/* Pinot */
+.listaVinhos li:nth-child(5) .mensagemPreco {
+    top: 5380px;
+    left: 300px;
+}
+
+/* Chardonnay */
+.listaVinhos li:nth-child(6) .mensagemPreco {
+    top: 6900px;
+    left: 300px;
+}
+
+/* Sauvignon Blanc */
+.listaVinhos li:nth-child(7) .mensagemPreco {
+    top: 8200px;
+    left: 300px;
+}
+
+/* Rosé */
+.listaVinhos li:nth-child(8) .mensagemPreco {
+    top: 9700px;
+    left: 300px;
+}
+
+/* Espumante */
+.listaVinhos li:nth-child(9) .mensagemPreco {
+    top: 10990px;
+    left: 300px;
+}
+
+/* Vinho do Porto */
+.listaVinhos li:nth-child(10) .mensagemPreco {
+    top: 12500px;
+    left: 300px;
+}
+
+.listaVinhos li:hover .mensagemPreco {
+    display: block;
+}
+
+.listaVinhos li:hover .mensagemPreco {
+    display: block;
+}
+
+.listaVinhos li:hover .mensagemPreco {
+    display: block;
+}
+
+.listaVinhos li:hover .mensagemPreco {
+    display: block;
+}
