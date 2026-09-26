@@ -76,3 +76,53 @@ A composição foi formada pelas seguintes páginas:
 
 Acesse o projeto publicado no GitHub Pages:
 https://saulomenches.github.io/Vinharia-Agnello-CheckPoint-Front/
+
+
+
+---
+
+
+# Check Point de Web Development
+
+## Descrição
+
+## Descrição
+
+Neste trabalho, utilizamos como base o site da Vinharia Agnello desenvolvido anteriormente na disciplina
+de Front-end Design. A partir desse projeto, implementamosa parte de JavaScript para adicionar interatividade
+ ao site. A principal funcionalidade desenvolvida foi a exibição dos preços dos vinhos na página de lista de
+vinhos, utilizando JavaScript para tornar a interação com os produtos dinâmica.
+
+## Integrantes
+
+- Saulo Sanches Menezes
+- Vitor Gimenes Vieira
+
+## Tecnologias utilizadas
+
+- HTML5
+- CSS3
+- JavaScript
+
+## Funcionalidade desenvolvida
+
+Para este trabalho, utilizamos JavaScript para adicionar uma funcionalidade interativa à página de lista de
+vinhos, aproveitando a estrutura do site desenvolvido anteriormente em Front-end Design.A interação começa
+quando o usuário seleciona um vinho da lista. O JavaScript utiliza o `prompt()` para solicitar ao usuário uma
+informação relacionada ao produto e armazena o valor informado em uma variável. A partir desse valor, o código
+utiliza funções, variáveis e estruturas condicionais para verificar a opção escolhida e apresentar na tela o
+preço correspondente ao vinho selecionado. Dessa forma, o conteúdo que inicialmente era apenas uma página estática
+passa a ter uma interação dinâmica com o usuário, utilizando conceitos básicos de programação aprendidos na disciplina
+de Web Development.
+
+## Repositório
+
+https://github.com/Saulomenches/Vinharia-Agnello-CheckPoint-Front
+
+## GitHub Pages
+
+https://saulomenches.github.io/Vinharia-Agnello-CheckPoint-Front/
+
+
+
+
