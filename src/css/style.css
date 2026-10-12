@@ -60,6 +60,13 @@ header {
 .cabecalho a:hover {
     color: rgb(255, 255, 255);
     transform: translateY(-5px);
+     
+}
+
+.cabecalho a:hover {
+    color: rgb(255, 255, 255);
+    transform: scale(1.4);
+   
 }
 
 .titulo {
@@ -256,7 +263,13 @@ header {
     position: relative;
     top: 400px;
     text-align: center;
+    transition: transform 0.3s ease;
     
+}
+
+.descubraVinhos h1:hover {
+    transform: scale(1.2);
+    background-color: rgba(255, 255, 255, 0.897);
     
 }
 
